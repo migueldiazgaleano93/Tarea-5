@@ -30,6 +30,7 @@ por la expresión P(Tj = min{T1, T2, . . . , TN}) = αj α1+α2+···+αN
 
 ### El proceso de nacimiento y muerte de las cadenas de Marcov
 Es una analogía, que se puede interpretar como unión y separación. Nos intereza saber cuanto tiempo dura un elemento en cualquier estado durante un tiepo determinado. El estado de la maquina esta  dado por X0 que para un tiempo particular se encuentra en ese estado.
+El tiempo de permanencia se modela con la variable OMEGA $\Omega$
 
 
 
