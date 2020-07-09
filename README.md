@@ -16,19 +16,10 @@ Formalmente, es una probabilidad condicional de la forma
 
 #### Deducción a partir de la distribución exponencial (Pámetros importantes: Estados y transiciones)
 A veces nos impoorta seber el tiempo de transición de los estados casi parecido al proceso de Poisson, pero lo que se busca el la permanencia en un estado , cual es la probabilidad de pasar de estado a otro, esto se refiere a la transición.
-Va representar un tiempo de vida la distribución exponencial representa esto.
+Va representar un tiempo de vida la distribución exponencial representa esto. Un ejemplo la vida util de un compenente va a depender de su vida útil.
 
-Si T es el tiempo de vida de un componente que está exponencialmente distribuido con
-parámetro α, entonces T tiene densidad
-fT (t) = (
-0 t < 0
-αexp(−αt=)
-t > 0
-(2)
-La media de T es el recíproco del parámetro α, E[T] = 1/α
-.
-• La variable aleatoria T tiene la propiedad de envejecimiento o de falta de memoria
-• “No importa lo viejo que el componente es, este opera como si fuera nuevo”
+
+
 
 
 
