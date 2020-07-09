@@ -33,7 +33,7 @@ Es una analogía, que se puede interpretar como unión y separación. Nos intere
 El tiempo de permanencia se modela con la variable OMEGA  o tiempo de espera.
 
 Si al tiempo t la máquina está en el estado i, permanece en ese estado por un tiempo aleatorio que es exponencialmente distribuido con parámetro Ωi
-.
+
 • El tiempo de espera promedio en el estado i es el recíproco 1/Ωi
 
 • Ωi depende del estado i, pero no depende de otros estados anteriores
