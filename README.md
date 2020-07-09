@@ -30,7 +30,17 @@ por la expresión P(Tj = min{T1, T2, . . . , TN}) = αj α1+α2+···+αN
 
 ### El proceso de nacimiento y muerte de las cadenas de Marcov
 Es una analogía, que se puede interpretar como unión y separación. Nos intereza saber cuanto tiempo dura un elemento en cualquier estado durante un tiepo determinado. El estado de la maquina esta  dado por X0 que para un tiempo particular se encuentra en ese estado.
-El tiempo de permanencia se modela con la variable OMEGA $\Omega$
+El tiempo de permanencia se modela con la variable OMEGA  o tiempo de espera.
+
+Si al tiempo t la máquina está en el estado i, permanece en ese estado por un
+tiempo aleatorio que es exponencialmente distribuido con parámetro Ωi
+.
+• El tiempo de espera promedio en el estado i es el recíproco 1/Ωi
+• Ωi depende del estado i, pero no depende de otros estados anteriores
+• El estado i pudiera ser absorbente: una vez que la máquina entra al estado i,
+permanecerá siempre ahí.
+• En este caso, Ωi = 0 y el tiempo de espera promedio es 1/Ωi = ∞.
+
 
 
 
