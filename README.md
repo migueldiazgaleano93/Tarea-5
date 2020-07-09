@@ -21,8 +21,7 @@ Va representar un tiempo de vida la distribución exponencial representa esto. U
 ##### Densidad de la variable mínima de un conjunto de variables aleatorias
 Son independientes pero, no son identicamente distribuidas. Ejemplo, si se compra un carro nuevo y todos los componenetes están funcionando. N componentes se conectan como el carro nuevo ese es t=0 e inician su operación conjunta. Sea M es el tiempo mínimo de todos los tiempos de vida de todos los componentes, del que el primer comente falle.
 
-"M está exponencialmente distribuida con parámetro α1 + α2 + . . . + αN y valor
-medio 1/(α1 + α2 + . . . + αN)."
+###### "M está exponencialmente distribuida con parámetro α1 + α2 + . . . + αN y valor  medio 1/(α1 + α2 + . . . + αN)."
 
 
 
