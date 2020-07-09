@@ -23,7 +23,7 @@ Son independientes pero, no son identicamente distribuidas. Ejemplo, si se compr
 La expresión de abajo se refiere a la suma de toda la vida conjunta de todos los componentes que componen el sistema. Es decir que entre más alfas hayan menor es el tiempo de vida esperado.
 ##### "M está exponencialmente distribuida con parámetro α1 + α2 + . . . + αN y valor  medio 1/(α1 + α2 + . . . + αN)."
 
-## ¿Cuál es la probabilidad de que cuando el primer fallo se dé, sea el componente
+#### ¿Cuál es la probabilidad de que cuando el primer fallo se dé, sea el componente
 j-ésimo?
 ##### La probabilidad de que entre las N variables aleatorias Ti el mínimo sea Tj está dada
 por la expresión P(Tj = min{T1, T2, . . . , TN}) = αj α1+α2+···+αN
